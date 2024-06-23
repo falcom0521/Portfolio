@@ -35,7 +35,7 @@ const Footer = () => {
             </a>
 
             <a href="https://github.com/falcom0521" className="footer__social-link" target="_blank" rel="noopener noreferrer">
-                <i className="uil uil-github-alt"></i>
+                <i className="bx bxl-github"></i>
             </a>
             </div>
 
