@@ -20,7 +20,7 @@ const Qualification = () => {
                     ? "qualification__button qualification__active button--flex" 
                     : "qualification__button button--flex"}
                     onClick={()=> toggleTab(1)}>
-                    <i className="uil uil-graduation-cap qualification__icon">
+                    <i className="bx bxs-graduation qualification__icon">
                         </i>Education 
                 </div>
 
@@ -28,7 +28,7 @@ const Qualification = () => {
                     ? "qualification__button qualification__active button--flex" 
                     : "qualification__button button--flex"}
                     onClick={()=> toggleTab(2)}>
-                    <i className="uil uil-briefcase-alt qualification__icon">
+                    <i className="bx bx-briefcase-alt-2 qualification__icon">
                         </i> Experience
                 </div>
             </div>
@@ -42,7 +42,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">High School</h3>
                             <span className="qualification__subtitle">Adam Public School</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i>  2018 
+                                <i className="bx bxs-calendar"></i>  2018 
                             </div>
                         </div>
                         <div>
@@ -63,7 +63,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Higher Secondary School</h3>
                             <span className="qualification__subtitle">Depaul EMHSS </span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i>  2020
+                                <i className="bx bxs-calendar"></i>  2020
                             </div>
                         </div>
                         
@@ -74,7 +74,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">BTech Computer Science</h3>
                             <span className="qualification__subtitle">MBCCET</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i>2024 current
+                                <i className="bx bxs-calendar"></i>2024 current
                             </div>
                         </div>
                         <div>
@@ -95,7 +95,7 @@ const Qualification = () => {
                             <span className="qualification__subtitle"> Completed a six month internship at Connect2Join, actively involved in the development of their Angular web application.</span>
                             
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i> 2023
+                                <i className="bx bxs-calendar"></i> 2023
                             </div>
                         </div>
                         <div>
@@ -116,7 +116,7 @@ const Qualification = () => {
                             <h3 className="qualification__title">Frontend Developer</h3>
                             <span className="qualification__subtitle">Frontend developer at MagikEvents, where I undertook multiple projects utilizing React.</span>
                             <div className="qualification__calendar">
-                                <i className="uil uil-calendar-alt"></i>  2024
+                                <i className="bx bxs-calendar"></i>  2024
                             </div>
                         </div>
                         

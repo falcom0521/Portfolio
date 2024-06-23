@@ -24,7 +24,7 @@ const ScrollUp = () => {
 
   return (
     <button className="scrollup" onClick={handleClick}>
-      <i className="uil uil-arrow-up scrollup__icon"></i>
+      <i className="bx bx-up-arrow-alt scrollup__icon"></i>
     </button>
   );
 }
