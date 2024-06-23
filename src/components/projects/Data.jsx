@@ -17,21 +17,22 @@ export const Data = [
         image: Image2,
         title: "Magikevents",
         description: "MagikEvents is a concise, single-page React website designed for effective event marketing, featuring a modern interface that enhances engagement.",
-        url: "https://magikevent-gofv0o4db-ajays-projects-2fc00837.vercel.app/"
+        url: "https://magikevent.vercel.app/",
+
     },
     {
         id: 3,
         image: Image3,
         title: "Microplastic Detection",
         description: "This project focuses on developing a system for detecting microplastics in environmental samples using YOLOv5, with a Python-based front end for data visualization and analysis. ",
-        url: "http://example.com/project3"
+        url: "https://github.com/falcom0521/Microplastic_detection.git"
     },
     {
         id: 4,
         image: Image4,
         title: "Integrated Security System",
         description: "Flutter application for an integrated security system that seamlessly connects with hardware components like cameras, sensors, and alarms to provide real-time monitoring and alerts.",
-        url: "http://example.com/project3"
+        url: "https://github.com/falcom0521/integrated--security-system-aplication-.git"
     }
 
 ];
