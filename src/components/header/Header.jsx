@@ -30,27 +30,27 @@ const Header = () => {
           <ul className="nav__list grid">
             <li className="nav__item">
               <a href="#home" onClick={() => setActiveNav('#home')} className={activeNav === "#home" ? "nav__link active-link" : "nav__link"}>
-                <i className="uil uil-estate nav__icon"></i>Home
+                <i className="bx bx-home-alt nav__icon"></i>Home
               </a>
             </li>
             <li className="nav__item">
               <a href="#about" onClick={() => setActiveNav('#about')} className={activeNav === "#about" ? "nav__link active-link" : "nav__link"}>
-                <i className="uil uil-user nav__icon"></i>About
+                <i className="bx bx-user nav__icon"></i>About
               </a>
             </li>
             <li className="nav__item">
               <a href="#skills" onClick={() => setActiveNav('#skills')} className={activeNav === "#skills" ? "nav__link active-link" : "nav__link"}>
-                <i className="uil uil-file-alt nav__icon"></i>Skills
+                <i className="bx bx-file nav__icon"></i>Skills
               </a>
             </li>
             <li className="nav__item">
               <a href="#qualification" onClick={() => setActiveNav('#qualification')} className={activeNav === "#qualification" ? "nav__link active-link" : "nav__link"}>
-                <i className="uil uil-briefcase-alt nav__icon"></i>Qualification
+                <i className="bx bx-briefcase-alt-2 nav__icon"></i>Qualification
               </a>
             </li>
             <li className="nav__item">
               <a href="#projects" onClick={() => setActiveNav('#projects')} className={activeNav === "#projects" ? "nav__link active-link" : "nav__link"}>
-                <i className="uil uil-scenery nav__icon"></i>Projects
+                <i className="bx bx-image nav__icon"></i>Projects
               </a>
             </li>
           </ul>
