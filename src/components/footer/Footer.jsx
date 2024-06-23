@@ -31,7 +31,7 @@ const Footer = () => {
             </a>
 
             <a href="https://www.linkedin.com/in/ajaypaulshine/" className="footer__social-link" target="_blank" rel="noopener noreferrer">
-                <i className="uil uil-linkedin"></i>
+                <i className="bx bxl-linkedin"></i>
             </a>
 
             <a href="https://github.com/falcom0521" className="footer__social-link" target="_blank" rel="noopener noreferrer">
