@@ -15,7 +15,7 @@ const About = () => {
             <div className='about__data'>
                 <Info />
 
-                <p className="about__description">I'm a passionate Computer Science Engineering student deeply fascinated by technology. I enjoy tackling challenges and constantly pushing myself to learn and grow. Through self-guided learning, I've developed skills in web development, focusing on Python and React.js, which have empowered me to bring ideas to life through software.</p>
+                <p className="about__description">I’m a passionate Mobile Application Developer with hands-on experience in building scalable and user-friendly applications using React Native and Flutter. I enjoy transforming ideas into high-quality digital products and have worked on projects involving real-time features, REST API integration, and modern UI/UX practices. I’m always eager to learn new technologies and continuously improve my craft.</p>
             </div>
 
         </div>
